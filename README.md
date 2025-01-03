@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atharva Shinde</h1>
 <h3 align="center">Aspiring DevOps Engineer</h3>
-
+<img align="right" alt='Coder GIF' height=250 width=300 src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-shinde19&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-shinde19" /> </p>
 
 - 🔭**I’m interested in:**<br>
