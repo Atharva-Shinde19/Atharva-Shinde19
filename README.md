@@ -25,6 +25,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 - atharva.shinde1905@gmail.com<br>
+- Phone : +91 8237241319
 -<a href="https://www.linkedin.com/in/atharva-shinde192005/" target="_blank">Linkedin</a>
 
 <p align="left">
