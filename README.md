@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-shinde19&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-shinde19" /> </p>
 
 - 🔭**I’m interested in:**<br>
- 1] DevOps Engineering <br> 2] Infrastructure as Code<br> 3] Cloud Technologies<br>4] Automation & Orchestration<br> 5] Monitoring & Logging<br> 6] Security in DevOps
+ 1] DevOps Engineer <br> 2] Infrastructure as Code<br> 3] Cloud Technologies<br>4] Automation & Orchestration<br> 5] Monitoring & Logging<br> 6] Security in DevOps
 
 - 👯 **I’m looking to collaborate on :**<br>
 1] DevOps Automation Projects
